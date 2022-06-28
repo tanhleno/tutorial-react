@@ -1,6 +1,8 @@
 # Tutorial React.js
 
-This is a project made following the steps of the tutorial on the official React.js page.
+This is a project made following the steps of the 
+tutorial on the official React.js page.
+
 You can check the tutorial [here](https://reactjs.org/tutorial/tutorial.html).
 
 ## Getting Started with Create React App
